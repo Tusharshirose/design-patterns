@@ -1,0 +1,15 @@
+D:\visualstudiocode\design patterns\patterns\bin\Debug\net6.0\patterns.exe
+D:\visualstudiocode\design patterns\patterns\bin\Debug\net6.0\patterns.deps.json
+D:\visualstudiocode\design patterns\patterns\bin\Debug\net6.0\patterns.runtimeconfig.json
+D:\visualstudiocode\design patterns\patterns\bin\Debug\net6.0\patterns.dll
+D:\visualstudiocode\design patterns\patterns\bin\Debug\net6.0\patterns.pdb
+D:\visualstudiocode\design patterns\patterns\obj\Debug\net6.0\patterns.csproj.AssemblyReference.cache
+D:\visualstudiocode\design patterns\patterns\obj\Debug\net6.0\patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudiocode\design patterns\patterns\obj\Debug\net6.0\patterns.AssemblyInfoInputs.cache
+D:\visualstudiocode\design patterns\patterns\obj\Debug\net6.0\patterns.AssemblyInfo.cs
+D:\visualstudiocode\design patterns\patterns\obj\Debug\net6.0\patterns.csproj.CoreCompileInputs.cache
+D:\visualstudiocode\design patterns\patterns\obj\Debug\net6.0\patterns.dll
+D:\visualstudiocode\design patterns\patterns\obj\Debug\net6.0\refint\patterns.dll
+D:\visualstudiocode\design patterns\patterns\obj\Debug\net6.0\patterns.pdb
+D:\visualstudiocode\design patterns\patterns\obj\Debug\net6.0\patterns.genruntimeconfig.cache
+D:\visualstudiocode\design patterns\patterns\obj\Debug\net6.0\ref\patterns.dll
